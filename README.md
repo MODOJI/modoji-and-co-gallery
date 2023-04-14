@@ -1,1 +1,1 @@
-# modoji-and-co-gallery
+# modojiandcogallery
